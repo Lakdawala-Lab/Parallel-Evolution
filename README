@@ -1,8 +1,10 @@
 README for influenza A virus sequence analysis presented in:
 "Parallel evolution between genomic segments of seasonal human influenza viruses reveals RNA-RNA relationships"
 
-# AUTHOR
+# AUTHORS
 Jennifer E. Jones <jennyjones_xyz@pitt.edu>
+Erik S. Wright <eswright@pitt.edu>
+Seema S. Lakdawala <lakdawala@pitt.edu>
 
 # DEPENDENCIES
 R >= 4.0
